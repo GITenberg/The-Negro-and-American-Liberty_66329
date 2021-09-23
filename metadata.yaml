@@ -1,5 +1,8 @@
 _repo: The-Negro-and-American-Liberty_66329
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66329-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, John W. (John Wheeler)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1937'
     url: http://www.gutenberg.org/2009/agents/1937
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66329#The-Negro-and-American-Liberty
 gutenberg_issued: '2021-09-17'
 identifiers:
   gutenberg: '66329'
